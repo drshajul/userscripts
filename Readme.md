@@ -1,1 +1,3 @@
-# userscripts\nMy personal collection of useful userscripts
+# userscripts
+
+My personal collection of useful userscripts
