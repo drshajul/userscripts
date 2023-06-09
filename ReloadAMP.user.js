@@ -15,7 +15,7 @@
     setInterval(function(){
         my_href = document.location.href;
         if ( my_href.includes("/articles/") ) {
-            console.log('DrShajul - Reloading..');
+            // console.log('Reloading news article..');
             window.location.reload();
         }
     }, 1000)
