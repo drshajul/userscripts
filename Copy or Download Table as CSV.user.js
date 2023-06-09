@@ -7,6 +7,7 @@
 // @version     2.01
 // @author      igorlogius & drshajul
 // @description Add a download / copy button at the top of every html table to download / export it as a CSV file
+// @license     MIT
 // ==/UserScript==
 
 (function(){
