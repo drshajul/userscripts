@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Reload AMP
-// @namespace    http://tampermonkey.net/drshajul/reloadAMP
+// @namespace    https://github.com/shajul/userscripts/raw/master/ReloadAMP.user.js
 // @version      0.2
-// @description  Reload AMP articles!
+// @description  Reload AMP articles to redirect page to non-AMP'd site!
 // @author       You
 // @include      https://news.google.*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
