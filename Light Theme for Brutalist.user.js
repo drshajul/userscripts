@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         Light Theme for Website
+// @name         Light Theme for Brutalist
 // @namespace    http://tampermonkey.net/brutalist_report
 // @version      1.0
 // @description  Change the website's dark theme to a light pleasing theme.
 // @author       You
 // @match        https://brutalist.report/*
 // @grant        GM_addStyle
+// @updateURL    https://github.com/drshajul/userscripts/raw/refs/heads/master/Light%20Theme%20for%20Brutalist.user.js
+// @downloadURL  https://github.com/drshajul/userscripts/raw/refs/heads/master/Light%20Theme%20for%20Brutalist.user.js
 // ==/UserScript==
 
 (function() {
