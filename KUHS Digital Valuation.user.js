@@ -9,6 +9,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=185.154
 // @grant        unsafeWindow
 // @run-at       document-start
+// @updateURL    https://github.com/drshajul/userscripts/raw/refs/heads/master/KUHS%20Digital%20Valuation.user.js
+// @downloadURL  https://github.com/drshajul/userscripts/raw/refs/heads/master/KUHS%20Digital%20Valuation.user.js
 // ==/UserScript==
 
 (function() {
